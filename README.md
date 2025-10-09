@@ -57,3 +57,42 @@ Ik heb een script gemaakt dat een bal schiet tegen een muur, en na de collision 
 ## Code
 
 [Link naar script](https://github.com/rstevensr/MijnUnityProject/blob/3e9f7b951e5e578b988c7173836e0e5b9f79829d/Assets/Scripts/Oefeningen/3.1/BallShooter.cs)
+
+# Les3.2 Oefening 3.2A: Music player
+
+## Beschrijving
+
+Ik heb een script gemaakt dat een music player is. Je kan verschillende dingen toetsen om andere functies te laten zien in het console.
+## Wat ik heb geleerd
+
+- Wat functies zijn en waarom ze handig zijn
+- Verschil tussen void en return functies
+- Hoe ik argumented gebruikt om data door te geven
+
+## Demo
+
+![Spotify Playlist Demo](/gifs/3.2/new.gif)
+
+## Code
+
+[Link naar SpotifyPlaylist.cs]([link-naar-je-script](https://github.com/rstevensr/MijnUnityProject/blob/241bdbd285d4e41b69c8561145b7d4aff3b01452/Assets/Scripts/Oefeningen/3.2/MusicPlayer.cs))
+
+# Les1.2 Oefening 1B: Spotify Playlist Generator
+
+## Beschrijving
+
+Ik heb een script gemaakt dat mijn favoriete muziekliedjes toont in de console, net zoals een Spotify playlist. Het script gebruikt Debug.Log() om verschillende liedjes met artiesten te tonen.
+
+## Wat ik heb geleerd
+
+- Hoe ik Debug.Log() gebruik om berichten te tonen
+- Hoe ik een script maak en aan een GameObject koppel
+- Basis structuur van een Unity C# script
+
+## Demo
+
+![Spotify Playlist Demo](link-naar-je-gifje)
+
+## Code
+
+[Link naar SpotifyPlaylist.cs](link-naar-je-script)

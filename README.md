@@ -75,4 +75,4 @@ Ik heb een script gemaakt dat een music player is. Je kan verschillende dingen t
 
 ## Code
 
-[Link naar SpotifyPlaylist.cs]([link-naar-je-script](https://github.com/rstevensr/MijnUnityProject/blob/241bdbd285d4e41b69c8561145b7d4aff3b01452/Assets/Scripts/Oefeningen/3.2/MusicPlayer.cs))
+[Link naar MusicPlayer.cs](https://github.com/rstevensr/MijnUnityProject/blob/241bdbd285d4e41b69c8561145b7d4aff3b01452/Assets/Scripts/Oefeningen/3.2/MusicPlayer.cs)

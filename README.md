@@ -76,23 +76,3 @@ Ik heb een script gemaakt dat een music player is. Je kan verschillende dingen t
 ## Code
 
 [Link naar SpotifyPlaylist.cs]([link-naar-je-script](https://github.com/rstevensr/MijnUnityProject/blob/241bdbd285d4e41b69c8561145b7d4aff3b01452/Assets/Scripts/Oefeningen/3.2/MusicPlayer.cs))
-
-# Les1.2 Oefening 1B: Spotify Playlist Generator
-
-## Beschrijving
-
-Ik heb een script gemaakt dat mijn favoriete muziekliedjes toont in de console, net zoals een Spotify playlist. Het script gebruikt Debug.Log() om verschillende liedjes met artiesten te tonen.
-
-## Wat ik heb geleerd
-
-- Hoe ik Debug.Log() gebruik om berichten te tonen
-- Hoe ik een script maak en aan een GameObject koppel
-- Basis structuur van een Unity C# script
-
-## Demo
-
-![Spotify Playlist Demo](link-naar-je-gifje)
-
-## Code
-
-[Link naar SpotifyPlaylist.cs](link-naar-je-script)

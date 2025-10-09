@@ -36,7 +36,7 @@ Ik heb een muntje gemaakt die rond zijn eigen as draait met een script, daarna h
 
 ## Code
 
-[Link naar GamerProfile.cs](https://github.com/rstevensr/MijnUnityProject/tree/eb193be5fb9bfee50b9113918da3e97cf2296c7d/Assets/Scripts/Oefeningen/2.1)
+[Link naar scripten](https://github.com/rstevensr/MijnUnityProject/tree/eb193be5fb9bfee50b9113918da3e97cf2296c7d/Assets/Scripts/Oefeningen/2.1)
 
 # Les3.1 Oefening 3.1c: Velocity, botsing en trigger-event
 

@@ -52,8 +52,8 @@ Ik heb een script gemaakt dat een bal schiet tegen een muur, en na de collision 
 
 ## Demo
 
-![Gif](/gifs/3.1/)
+![Gif](/gifs/3.1/Bewegingen.gif)
 
 ## Code
 
-[Link naar SpotifyPlaylist.cs](link-naar-je-script)
+[Link naar script](https://github.com/rstevensr/MijnUnityProject/blob/3e9f7b951e5e578b988c7173836e0e5b9f79829d/Assets/Scripts/Oefeningen/3.1/BallShooter.cs)

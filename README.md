@@ -95,4 +95,4 @@ Ik heb een script gemaakt waarbij als je op een platform staat, dan kan je de kl
 
 ## Code
 
-[Link naar Scripts](https://github.com/rstevensr/MijnUnityProject/blob/241bdbd285d4e41b69c8561145b7d4aff3b01452/Assets/Scripts/Oefeningen/3.2/MusicPlayer.cs)
+[Link naar Scripts](https://github.com/rstevensr/MijnUnityProject/tree/643d6d9ab3589b5913556964f4b8ea2bbb3864f7/Assets/Scripts/Oefeningen/5.2C)

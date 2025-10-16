@@ -71,8 +71,28 @@ Ik heb een script gemaakt dat een music player is. Je kan verschillende dingen t
 
 ## Demo
 
-![Spotify Playlist Demo](/gifs/3.2/new.gif)
+![Music player](/gifs/3.2/new.gif)
 
 ## Code
 
 [Link naar MusicPlayer.cs](https://github.com/rstevensr/MijnUnityProject/blob/241bdbd285d4e41b69c8561145b7d4aff3b01452/Assets/Scripts/Oefeningen/3.2/MusicPlayer.cs)
+
+# Les5.2 Oefening 5.2C: Kleurwisselende Platform
+
+## Beschrijving
+
+Ik heb een script gemaakt waarbij als je op een platform staat, dan kan je de kleur van die platform veranderen door te toetsen. Dit heb ik gedaan met triggers, functions en if statements.
+
+## Wat ik heb geleerd
+
+- Input combineren met if-statements
+- Interactieve kleur verandering
+- Organiseert code
+
+## Demo
+
+![Kleurwisselende platform](/gifs/5.2C/h.gif)
+
+## Code
+
+[Link naar Scripts](https://github.com/rstevensr/MijnUnityProject/blob/241bdbd285d4e41b69c8561145b7d4aff3b01452/Assets/Scripts/Oefeningen/3.2/MusicPlayer.cs)
